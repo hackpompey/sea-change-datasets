@@ -73,6 +73,9 @@ For most of these projects you may wish to use data from this repo, or live AIS 
 
 </em>
 
+**Future Research**  
+The Sea Change project has enabled the building of a 'shore power' system across the three busiest berths at Portsmouth International Port, meaning that ships can use green energy when in harbour, and massively reducing emissions to the benefit of our city. Can you identify and justify further opportunities of research and innovation to the benefit of Portsmouth?
+
 **Ship Emissions Tracker**  
 Visualize real-time carbon footprints of vessels entering the solent.
 
