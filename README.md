@@ -67,8 +67,14 @@ Create the first assessment of carbon emissions produced by shipping entering th
 
 ## Other Project Ideas
 
+<em>
+
+For most of these projects you may wish to use data from this repo, or live AIS data available from https://marinetraffic.com (API available at: https://api.myshiptracking.com).
+
+</em>
+
 **Ship Emissions Tracker**  
-Visualize real-time carbon footprints of vessels entering the solent[^1].
+Visualize real-time carbon footprints of vessels entering the solent.
 
 **Maritime Traffic Optimizer**  
 Create an algorithm to reduce port congestion and waiting times for ships.
@@ -77,7 +83,7 @@ Create an algorithm to reduce port congestion and waiting times for ships.
 A racing game where players navigate vessels through the Solent while managing fuel consumption and avoiding emissions alerts.
 
 **Virtual Harbour Tour**  
-Visualisation/tour that identifies and provides information about ships currently in port, using data in this repository or live AIS data[^1].
+Visualisation/tour that identifies and provides information about ships currently in port.
 
 **Catch of the Day**  
 App connecting consumers with fishing vessels to purchase sustainably caught local seafood.
@@ -89,7 +95,7 @@ Silly AI tool that suggests ship names based on cargo, destination and weather c
 Notification system or app for suggesting optimal harbour entry times based on time, traffic and berth availability.
 
 **Battleships: Solent**  
-The Battleships game, but using real AIS data[^1] (somehow).
+The Battleships game, but using real AIS data.
 
 **Portsmouth Harbour Bingo**  
 Web or mobile game where players check off different types of vessels spotted entering the harbour.
